@@ -16,7 +16,7 @@ next turn. Dying cells would only come back to life on the following turn if on 
 to change the colour/design of the game board, how many rows/columns the simulation would have, the proportion of starting living cells, and the time 
 between each iteration.
 
-
+DSU_MovieRecommendationEngine: This is the movie recommendation system I built as my final project for my Data Science Union internship. I harnessed sci-kit learn's TF-IDF vectorizer to perform content-based filtering machine learning. This way, given a movie, I was able to recommend movies similar to it after passing the TF-IDF matrices into sci-kit learn's cosine similarity and linear kernel functions. My next step is to implement collaborative filtering so that users with similar tastes in movies can be recommended movies that one or the other has watched.
 
 
 
