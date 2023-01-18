@@ -18,6 +18,6 @@ between each iteration.
 
 DSU_MovieRecommendationEngine: This is the movie recommendation system I built as my final project for my Data Science Union internship. I harnessed sci-kit learn's TF-IDF vectorizer to perform content-based filtering machine learning. This way, given a movie, I was able to recommend movies similar to it after passing the TF-IDF matrices into sci-kit learn's cosine similarity and linear kernel functions. My next step is to implement collaborative filtering so that users with similar tastes in movies can be recommended movies that one or the other has watched.
 
-
+PersonalChessAnalysis: This is "Part 1" of a Personal Chess Analysis project. In this part of the project, I did an Exploratory Data Analysis of around 4000 chess games I played on chess.com. I played a lot of chess in highschool, becoming a national master and national champion. Thus, this topic was of great interest to me. I wanted to see if I could discover some new insights in my play, especially things I can look to improve on. I was able to take a messy dataset and convert it into a dataframe I could use. I found I struggle most against the French Defense as White, and the English Opening as black. I also made a cool visualization that showed how my winrate decreased as the number of moves in the game increased. 
 
 
